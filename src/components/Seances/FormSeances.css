@@ -1,0 +1,42 @@
+.form-cout {
+  border-radius: 12px;
+  border: 1px solid black;
+  margin-left: 19px;
+  margin-bottom: 12px;
+  height: 17px;
+  text-align: center;
+  margin-top: 23px;
+}
+
+.form-prix {
+  border-radius: 12px;
+  border: 1px solid black;
+  margin-left: 19px;
+  margin-bottom: 12px;
+  height: 17px;
+  text-align: center;
+}
+
+.form-date {
+  border-radius: 12px;
+  border: 1px solid black;
+  margin-left: 19px;
+  margin-bottom: 12px;
+  height: 17px;
+  text-align: center;
+}
+
+.App {
+  margin-bottom: 25px;
+  margin-right: 137px;
+  margin-left: 179px;
+  padding-bottom: 1rem;
+  background-color: beige;
+}
+
+.bruh {
+  border-radius: 23px;
+  height: 23px;
+  margin-right: -52px;
+  text-align: center;
+}

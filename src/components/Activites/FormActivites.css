@@ -1,0 +1,17 @@
+.form-label {
+  border-radius: 12px;
+  border: 1px solid black;
+  margin-left: 19px;
+  margin-bottom: 12px;
+  height: 20px;
+  text-align: center;
+  margin-top: 23px;
+}
+
+.App {
+  margin-bottom: 25px;
+  margin-right: 137px;
+  margin-left: 179px;
+  padding-bottom: 1rem;
+  background-color: beige;
+}
